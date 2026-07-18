@@ -1,26 +1,17 @@
 # satapathysanchita783-afk-satapathysanchita783-afk
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Sanchita**, a passionate developer and technology enthusiast dedicated to building innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I'm **Sanchita**, a passionate Python developer and technology enthusiast dedicated to building innovative solutions and contributing to the open-source community.
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer with a passion for clean code and best practices
+- 💻 Python developer with a passion for clean code and best practices
 - 🎯 Focused on creating impactful projects that solve real-world problems
 - 📚 Continuous learner, always exploring new technologies and frameworks
 - 🤝 Active contributor to open-source projects
 - 🎨 Interested in both backend and frontend development
 
 ## 🛠️ Tech Stack
-
-**Languages:**
-- Python
-- Java
-- SQL
-- JavaScript (learning)
-
-**Frontend:**
-- HTML5 & CSS3
 
 **Tools & Platforms:**
 - Git & GitHub
@@ -30,8 +21,8 @@ Welcome to my GitHub profile! I'm **Sanchita**, a passionate developer and techn
 ## 💡 What I'm Currently Working On
 
 - 🔭 Exploring artificial intelligence
-- 🌱 Learning DSA in Python
-- 🎯 Building short projects using Python
+- 🌱 Learning to write clean and organised code
+- 🎯 Building beginner-friendly projects using Python
 - 📖 Contributing to open-source projects
 
 ## 💬 Fun Facts
@@ -49,3 +40,4 @@ Welcome to my GitHub profile! I'm **Sanchita**, a passionate developer and techn
 ⭐ If you find my work helpful, a star would be greatly appreciated!
 
 </div>
+
