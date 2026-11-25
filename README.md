@@ -17,13 +17,16 @@ Welcome to my GitHub profile! I'm **Sanchita**, a passionate Python developer an
 - Git & GitHub
 - VS Code
 - Google colab
+- Jupyter Notebook
+- Kaggle
 
 ## 💡 What I'm Currently Working On
 
-- 🔭 Exploring artificial intelligence
-- 🌱 Learning to write clean and organised code
-- 🎯 Building beginner-friendly projects using Python
+- 🔭 Exploring artificial intelligence and machine learning
+- 🌱 Improving practical skills in Data Science
+- 🎯 Building Hands-on projects using Python and Scikit-learn
 - 📖 Contributing to open-source projects
+- 🌱 Learning to write clean and organised code
 
 ## 💬 Fun Facts
 
